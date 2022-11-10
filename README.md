@@ -1,4 +1,4 @@
-[![MasterHead](https://www.rccd.edu/admin/ed_services/it/PublishingImages/INFO_TECH_HERO.jpg)]
+![MasterHead](https://www.rccd.edu/admin/ed_services/it/PublishingImages/INFO_TECH_HERO.jpg)
 <h1 align="center">Syeda Aunanya Mahmud</h1>
 <h3 align="center">A student of IT(Information Technology) department and a passionate researcher from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://images.alphacoders.com/118/118303.jpg">
