@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aunanya875" alt="aunanya875" /></a> </p>
 
-- I've gained skills over different programming languages and participated in some online programming contests. I've also participated in cyber security competitions (Competitions : **Inter University Cyber Drill Competition** of 2021 & 2022, **National Cyber Drill Competition** of 2021) to enhance my knowledge and to work in this field in the future. Currently I’m doing my thesis and working in the field of **Federated Learning**.
+- I've gained skills over different programming languages and participated in some online programming contests. I've also participated in cyber security competitions (Competitions : **Inter University Cyber Drill Competition** of 2021 & 2022, **National Cyber Drill Competition** of 2021) to enhance my knowledge and to work in this field in the future. Currently I’m doing my research in the field of **Federated Learning**.
 
 - How to reach me **aunanya875@gmail.com**
 
