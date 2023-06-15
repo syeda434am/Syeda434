@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aunanya875" alt="aunanya875" /></a> </p>
 
-- I've gained skills over different programming languages and participated in some online programming contests. I've also participated in cyber security competitions (Competitions : **Inter University Cyber Drill Competition** of 2021 & 2022, **National Cyber Drill Competition** of 2021) to enhance my knowledge and to work in this field in the future. Currently I’m doing my research in the field of **Federated Learning**.
+- I am a passionate researcher in the field of **Machine Learning** and **AI** with a strong interest in the field of **Cybersecurity** and a diverse skill set in programming languages including C, C++, Java, and Python. My expertise lies in the areas of **Machine Learning**, **Deep Learning**, **Federated Learning**, **NLP** and **Neural Network**, where I have successfully completed several projects.
+To enhance my knowledge and practical skills in the field of Cybersecurity, I have actively participated in prestigious Cybersecurity competitions, including the **Inter University Cyber Drill Competition** of 2021 and 2022, as well as the **National Cyber Drill Competition** of 2021 and gained glorious positions. 
+Currently, I am focused on advancing my expertise in **Federated Learning**. Additionally, I am also expanding my knowledge in **Security Operations Centre (SOC)** and **Software Testing & Quality Assurance (STQA)**, where I am gaining valuable insights into the software quality assurance and operational aspects of maintaining robust security infrastructures.
+I am highly motivated and driven to contribute to the field of AI and Cybersecurity by leveraging my skills and research experience. I am open to exciting opportunities for higher studies and jobs where I can apply my knowledge and expertise to solve complex security challenges.
 
 - How to reach me **aunanya875@gmail.com**
 
