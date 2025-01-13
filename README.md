@@ -2,21 +2,13 @@
   <img src="https://github.com/Aunanya875/Aunanya875/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.gif?raw=true"/>
 </div>
 
-<h3 align="center">Passionate about Building Impactful Solutions</h3>
-
----
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aunanya875&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aunanya875&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+<h1 align="center"> 🌻 I'm Syeda Aunanya Mahmud</h1>
+<h3 align="center">Passionate about building impactful solutions with AI/ML</h3>
 
 ---
 
 <div align="center">
-  <h4>Connect with Me:</h4>
+  <h3 align="left">Connect with me:</h3>
   <a href="mailto:aunanya875@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/12253663/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow" /></a>
@@ -44,7 +36,7 @@
 ---
 
 <div align="left">
-  <h4>Skills:</h4>
+  <h3 align="left">Skills and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -130,4 +122,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aunanya875" alt="aunanya875" /></a> </p>
 
-###
+---
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aunanya875&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aunanya875&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
