@@ -30,8 +30,10 @@
 
 - 🏢 Worked as an **Graduate 1 AI/ML Research Engineer** [@Kounsel]((https://kounsel.io/search)):
 <p align="left">AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced conversational AI chatbots using state-of-the-art models like Meta Llama & Mistral NeMo. I am also actively involved in domain-specific classification tasks using LLMs (BERT & T5), including pre-training and fine-tuning processes.</p>
+
 - 📜 I've published a research paper titled [Privacy-Preserving Federated Learning-Based Intrusion Detection Technique for Cyber-Physical Systems]((https://www.mdpi.com/2227-7390/12/20/3194)) @**MDPI**: 
 <p align="left">My research experience includes Federated Learning, where I have explored innovative decentralized approaches to machine learning and deep learning.</p>
+
 - I have a strong background in cybersecurity, demonstrated by my successful participation in various national and international CTF competitions, including the Inter-University Cyber Drill Competition (top 10% in 2021 and 2022) and the National Cyber Drill Competition (1st place in the Capture the Flag category in 2021).</p>
 
 ###
