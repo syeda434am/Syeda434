@@ -27,7 +27,7 @@
 ---
 
 ### 🏢 Experience
-- **Graduate 1 AI/ML Research Engineer** [@Kounsel](https://kounsel.io/search):
+- **Graduate AI/ML Research Engineer** [@Kounsel](https://kounsel.io/search):
   - AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced conversational AI chatbots using state-of-the-art models like Meta Llama & Mistral NeMo. Actively involved in domain-specific classification tasks using LLMs (BERT & T5), including pre-training and fine-tuning processes.
 
 ### 📜 Publications
