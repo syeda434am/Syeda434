@@ -1,11 +1,8 @@
-<h2 align="center">🌟 Syeda Aunanya Mahmud 🌟</h2>
-<h3 align="center">AI/ML Research Engineer<br>Passionate about Building Impactful Solutions</h3>
-
----
-
 <div align="center">
   <img src="https://github.com/Aunanya875/Aunanya875/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.gif?raw=true"/>
 </div>
+
+<h3 align="center">Passionate about Building Impactful Solutions</h3>
 
 ---
 
