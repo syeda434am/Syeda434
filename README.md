@@ -1,40 +1,46 @@
-<h2 align="center">Syeda Aunanya Mahmud</h2>
-<h3 align="center">An AI/ML Research Engineer<br>Passionate about building impactful solutions</h3>
+<h2 align="center">🌟 Syeda Aunanya Mahmud 🌟</h2>
+<h3 align="center">AI/ML Research Engineer<br>Passionate about Building Impactful Solutions</h3>
 
-###
+---
 
 <div align="center">
-  <img height="250" src="https://wallpapercave.com/wp/wp13601344.jpg"  />
+  <img height="250" src="https://wallpapercave.com/wp/wp13601344.jpg" alt="Profile Background" />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aunanya875&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aunanya875&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aunanya875&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aunanya875&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="aunanya875@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <a href="https://linkedin.com/in/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://stackoverflow.com/users/12253663/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-    <a href="https://kaggle.com/aunanya875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aunanya875" height="30" width="40" />
-  <a href="https://codepen.io/Aunanya_Mahmud" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+<div align="center">
+  <h4>Connect with Me:</h4>
+  <a href="mailto:aunanya875@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/12253663/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow" /></a>
+  <a href="https://kaggle.com/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle" /></a>
+  <a href="https://codepen.io/Aunanya_Mahmud" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="CodePen" /></a>
 </div>
 
-###
+---
 
-- 🏢 Worked as an **Graduate 1 AI/ML Research Engineer** [@Kounsel]((https://kounsel.io/search)):
-<p align="left">AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced conversational AI chatbots using state-of-the-art models like Meta Llama & Mistral NeMo. I am also actively involved in domain-specific classification tasks using LLMs (BERT & T5), including pre-training and fine-tuning processes.</p>
+### 🏢 Experience
+- **Graduate 1 AI/ML Research Engineer** [@Kounsel](https://kounsel.io/search):
+  - AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced conversational AI chatbots using state-of-the-art models like Meta Llama & Mistral NeMo. Actively involved in domain-specific classification tasks using LLMs (BERT & T5), including pre-training and fine-tuning processes.
 
-- 📜 I've published a research paper titled [Privacy-Preserving Federated Learning-Based Intrusion Detection Technique for Cyber-Physical Systems]((https://www.mdpi.com/2227-7390/12/20/3194)) @**MDPI**: 
-<p align="left">My research experience includes Federated Learning, where I have explored innovative decentralized approaches to machine learning and deep learning.</p>
+### 📜 Publications
+- **Research Paper:** [Privacy-Preserving Federated Learning-Based Intrusion Detection Technique for Cyber-Physical Systems](https://www.mdpi.com/2227-7390/12/20/3194) @ **MDPI**:
+  - My research experience includes Federated Learning, exploring innovative decentralized approaches to machine learning and deep learning.
 
-- I have a strong background in cybersecurity, demonstrated by my successful participation in various national and international CTF competitions, including the Inter-University Cyber Drill Competition (top 10% in 2021 and 2022) and the National Cyber Drill Competition (1st place in the Capture the Flag category in 2021).</p>
+### 🔐 Cybersecurity Background
+- Strong background in cybersecurity, demonstrated by successful participation in various national and international CTF competitions, including:
+  - Inter-University Cyber Drill Competition (Top 10% in 2021 and 2022)
+  - National Cyber Drill Competition (1st place in Capture the Flag category in 2021)
 
 ###
 
@@ -123,15 +129,5 @@
 ###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aunanya875" alt="aunanya875" /></a> </p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Aunanya875/Aunanya875/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Aunanya875/count.svg?"  />
-</div>
 
 ###
