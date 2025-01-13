@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAGcD3kD_JE/cqt_4jtA8G9GCVLnmsHYIg/watch?utm_content=DAGcD3kD_JE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfa6d4b85c2" alt="Profile Background" />
+  ![Black And Grey Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/fb425b4d-e7db-4bc7-a63f-339053505752)
 </div>
 
 ---
