@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img height="250" src="https://wallpapercave.com/wp/wp13601344.jpg" alt="Profile Background" />
+  <img src="https://www.canva.com/design/DAGcD3kD_JE/cqt_4jtA8G9GCVLnmsHYIg/watch?utm_content=DAGcD3kD_JE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfa6d4b85c2" alt="Profile Background" />
 </div>
 
 ---
@@ -44,7 +44,10 @@
 
 ###
 
+---
+
 <div align="left">
+  <h4>Skills:</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -126,7 +129,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aunanya875" alt="aunanya875" /></a> </p>
 
