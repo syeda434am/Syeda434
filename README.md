@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  ![Black And Grey Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/fb425b4d-e7db-4bc7-a63f-339053505752)
+  <img src="https://github.com/Aunanya875/Aunanya875/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.gif?raw=true"/>
 </div>
 
 ---
