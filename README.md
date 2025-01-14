@@ -26,8 +26,8 @@
 
 ### 🔐 Cybersecurity Background
 - Strong background in cybersecurity, demonstrated by successful participation in various national and international CTF competitions, including:
-  - Inter-University Cyber Drill Competition (Top 10% in 2021 and 2022)
-  - National Cyber Drill Competition (1st place in Capture the Flag category in 2021)
+  - Inter University Cyber Drill Competition of 2021 (Team: UITS, 2nd) and 2022 (Team: UITS IT ROOTERS, 5th);
+  - National Cyber Drill Competition of 2021 (Team: Zero Day, 10th)
 
 ###
 
