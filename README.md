@@ -132,5 +132,7 @@
 </div>
 
 <div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
+<video controls width="100%">
+  <source src="https://github.com/Aunanya875/Aunanya875/blob/main/gif.mp4_1737706905532.mp4" type="video/mp4">
+</video>
 </div>
