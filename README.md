@@ -118,7 +118,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aunanya875" alt="aunanya875" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syeda434am" alt="syeda434am" /></a> </p>
 
 ---
 
