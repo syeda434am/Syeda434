@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Aunanya875/Aunanya875/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.gif?raw=true"/>
+  <img src="https://github.com/syeda434am/Aunanya875/blob/main/Banner.gif?raw=true"/>
 </div>
 
 <h1 align="center"> 🌻 I'm Syeda Aunanya Mahmud</h1>
@@ -124,15 +124,9 @@
 
 <div align="left">
   <h3 align="left">Connect with me:</h3>
-  <a href="mailto:aunanya875@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/12253663/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow" /></a>
+  <a href="mailto:aunanya.official@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/syeda434/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/12253663/aunanya" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow" /></a>
   <a href="https://kaggle.com/aunanya875" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle" /></a>
-  <a href="https://codepen.io/Aunanya_Mahmud" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="CodePen" /></a>
 </div>
 
-<div align="right">
-<video controls width="100%">
-  <source src="https://github.com/Aunanya875/Aunanya875/blob/main/gif.mp4_1737706905532.mp4" type="video/mp4">
-</video>
-</div>
