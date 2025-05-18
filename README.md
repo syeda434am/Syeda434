@@ -17,8 +17,8 @@
 ---
 
 ### 🏢 Experience
-- **Former Graduate AI/ML Research Engineer** [@Kounsel](https://kounsel.io/search):
-  - AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced conversational AI chatbots using state-of-the-art models like Meta Llama & Mistral NeMo. Actively involved in domain-specific classification tasks using LLMs (BERT & T5), including pre-training and fine-tuning processes.
+- **Currently, a Junior AI Developer** [@SM Technology](https://smtech24.com/) and **Former Graduate AI/ML Research Engineer** [@Kounsel](https://kounsel.io/search):
+  - AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced multi-functional AI systems using state-of-the-art models like GPT, Meta Llama, Deepseek, Gemma, Qwen, Mistral, Whisper, Stable Diffusion, Dall-E, Veo & MiniMax. Actively involved in domain-specific tasks including pre-training, fine-tuning and API integration processes.
 
 ### 📜 Publications
 - **Research Paper:** [Privacy-Preserving Federated Learning-Based Intrusion Detection Technique for Cyber-Physical Systems](https://www.mdpi.com/2227-7390/12/20/3194) @ **MDPI**:
