@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/syeda434am/Aunanya875/blob/main/Banner.gif?raw=true"/>
+  <img src="https://github.com/syeda434am/Aunanya875/blob/main/Syeda_Linkedin_Banner.png?raw=true"/>
 </div>
 
 <h1 align="center"> 🌻 I'm Syeda Aunanya Mahmud</h1>
