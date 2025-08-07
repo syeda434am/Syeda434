@@ -17,7 +17,7 @@
 ---
 
 ### 🏢 Experience
-- **Currently, a Junior AI Developer** [@SM Technology](https://smtech24.com/) and **Former Graduate AI/ML Research Engineer** [@Kounsel](https://kounsel.io/search):
+- **Former Junior AI Developer** [@SM Technology](https://smtech24.com/) and **Former Graduate AI/ML Research Engineer** [@Kounsel](https://kounsel.io/search):
   - AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced multi-functional AI systems using state-of-the-art models like GPT, Meta Llama, Deepseek, Gemma, Qwen, Mistral, Whisper, Stable Diffusion, Dall-E, Veo & MiniMax. Actively involved in domain-specific tasks including pre-training, fine-tuning and API integration processes.
 
 ### 📜 Publications
