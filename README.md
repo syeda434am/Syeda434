@@ -3,12 +3,18 @@
 </div>
 
 <h1 align="center"> 🌻 I'm Syeda Aunanya Mahmud</h1>
-<h3 align="center">Passionate about building impactful solutions with AI/ML</h3>
+<h3 align="center">AI Engineer & Researcher || AI, ML, FL and Cybersecurity Enthusiast</h3>
 
 ---
 
 # 💫 About Me:
-🏢 Experience<br>Former Junior AI Developer @SM Technology and Former Graduate AI/ML Research Engineer @Kounsel:<br>AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced multi-functional AI systems using state-of-the-art models like GPT, Meta Llama, Deepseek, Gemma, Qwen, Mistral, Whisper, Stable Diffusion, Dall-E, Veo & MiniMax. Actively involved in domain-specific tasks including pre-training, fine-tuning and API integration processes.<br>📜 Publications<br>Research Paper: Privacy-Preserving Federated Learning-Based Intrusion Detection Technique for Cyber-Physical Systems @ MDPI:<br>My research experience includes Federated Learning, exploring innovative decentralized approaches to machine learning and deep learning.<br>🔐 Cybersecurity Background<br>Strong background in cybersecurity, demonstrated by successful participation in various national and international CTF competitions, including:<br>Inter University Cyber Drill Competition of 2021 (Team: UITS, 2nd) and 2022 (Team: UITS IT ROOTERS, 5th);<br>National Cyber Drill Competition of 2021 (Team: Zero Day, 10th)
+🏢 Experience
+<br>Former Junior AI Developer @SM Technology and Former Graduate AI/ML Research Engineer @Kounsel:<br>AI/ML Research Engineer with expertise in Generative AI, specializing in the development of advanced multi-functional AI systems using state-of-the-art models like GPT, Meta Llama, Deepseek, Gemma, Qwen, Mistral, Whisper, Stable Diffusion, Dall-E, Veo & MiniMax. Actively involved in domain-specific tasks including pre-training, fine-tuning and API integration processes.<br>📜 Publications
+<br>Research Paper: Privacy-Preserving Federated Learning-Based Intrusion Detection Technique for Cyber-Physical Systems @ MDPI:<br>My research experience includes Federated Learning, exploring innovative decentralized approaches to machine learning and deep learning.<br>
+🔐 Cybersecurity Background
+<br>Strong background in cybersecurity, demonstrated by successful participation in various national and international CTF competitions, including:<br>
+- Inter University Cyber Drill Competition of 2021 (Team: UITS, 2nd) and 2022 (Team: UITS IT ROOTERS, 5th);<br>
+- National Cyber Drill Competition of 2021 (Team: Zero Day, 10th)
 
 
 ## 🌐 Socials:
@@ -30,5 +36,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=syeda434am&icon=4&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
